@@ -15,6 +15,8 @@ header {
   padding: 1em;
   color: aliceblue;
   font-size: 1.2em;
+  background-color: #9b9b9b;
+  box-shadow: 0 10px 10px 0 rgb(59, 59, 223);
 }
 
 nav {
@@ -28,5 +30,5 @@ nav {
 
 nav > a {
   text-decoration: none;
-  color: blueviolet;
+  color: rgb(59, 59, 223);
 }
