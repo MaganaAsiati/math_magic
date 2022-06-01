@@ -1,7 +1,5 @@
 .App {
-  display: flex;
-  justify-content: center;
-  text-align: center;
+  color: aliceblue;
 }
 
 .App-Ctn {
@@ -9,4 +7,28 @@
   width: 40%;
   background-color: #9b9b9b;
   justify-content: center;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  color: aliceblue;
+  font-size: 1.2em;
+  background-color: #9b9b9b;
+  box-shadow: 0 10px 10px 0 rgb(59, 59, 223);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1em;
+  padding: 1em;
+  color: aliceblue;
+  font-size: 1.2em;
+}
+
+nav > a {
+  text-decoration: none;
+  color: rgb(59, 59, 223);
 }
