@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should match the snapshot 1`] = `
+<div
+  className="container-home"
+>
+  <h1>
+    Welcome to our page !
+  </h1>
+  <p
+    className="description-home"
+  >
+    Mathematical literacy includes learning to read and write different types of mathematical texts as part of purposeful mathematical meaning making. Thus in this article, we describe how learning to read and write mathematical texts (proof text, algorithmic text, algebraic/symbolic text, and visual text) supports the development of students‘ mathematical literacy. Explicit instruction about how to engage with each text type helps to build students‘ awareness of the function of mathematical texts and of how to leverage them to support the doing of mathematics. Teachers and leaders can use this discussion of mathematical text types to organize and conceptualize instruction within a disciplinary literacy orientation.
+  </p>
+</div>
+`;
