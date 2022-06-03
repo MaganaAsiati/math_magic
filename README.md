@@ -1,4 +1,3 @@
-[live demo](https://gentle-pasca-44321c.netlify.app/)
 
 # Math Magician
 
